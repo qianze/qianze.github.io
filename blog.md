@@ -3,7 +3,7 @@ layout: default
 title: qianze zhang | blog
 permalink: /blog/
 ---
-I just wish one blog post would show up here.
+<center>
 <div class="home">
 {% for post in site.posts %}
    {% if post.categories contains 'blog2' %}
@@ -21,3 +21,4 @@ I just wish one blog post would show up here.
 {% cycle 'end row' : nil, '</div>', '</div>' %}
 
 </div>
+</center>
