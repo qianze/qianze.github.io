@@ -3,7 +3,6 @@ layout: page
 title: qianze zhang | blog
 permalink: /blog/
 ---
-
 <div class="home">
 {% for post in site.posts %}
    {% if post.categories contains 'blog1' %}
