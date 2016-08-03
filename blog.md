@@ -3,10 +3,10 @@ layout: default
 title: qianze zhang | blog
 permalink: /blog/
 ---
-I just wish some blog posts would show up here.
+I just wish one blog post would show up here.
 <div class="home">
 {% for post in site.posts %}
-   {% if post.categories contains 'blog1' %}
+   {% if post.categories contains 'blog2' %}
     {% cycle 'add row' : '<div class="row">', nil, nil %}
         <div class="col-sm-4">
             <div class="preview-panel">
