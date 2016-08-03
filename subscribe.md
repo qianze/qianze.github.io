@@ -3,7 +3,7 @@ layout: page
 title: qianze zhang | subscribe
 permalink: /subscribe/
 ---
-
+Subscribe for exclusive mental meanderings and updates whenever I publish new content.
 <!-- Begin MailChimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
 <style type="text/css">
@@ -14,7 +14,7 @@ permalink: /subscribe/
 <div id="mc_embed_signup">
 <form action="//qianze.us1.list-manage.com/subscribe/post?u=5aa10dc2bf467c3d29e72589e&amp;id=782322e461" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
     <div id="mc_embed_signup_scroll">
-	<h2>Subscribe to our mailing list</h2>
+	<h2></h2>
 <div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
 <div class="mc-field-group">
 	<label for="mce-EMAIL">Email Address  <span class="asterisk">*</span>
