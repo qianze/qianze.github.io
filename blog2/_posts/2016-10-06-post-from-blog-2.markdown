@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Post from blog 2"
 date:   2015-10-06 15:39:40
 category: blog2
 preview: http://placehold.it/300x300
