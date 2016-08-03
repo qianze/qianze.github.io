@@ -3,6 +3,7 @@ layout: page
 title: qianze zhang | portfolio
 permalink: /portfolio/
 ---
+<center>
 <div class="home">
 {% for post in site.posts %}
    {% if post.categories contains 'blog1' %}
@@ -20,3 +21,4 @@ permalink: /portfolio/
 {% cycle 'end row' : nil, '</div>', '</div>' %}
 
 </div>
+</center>
