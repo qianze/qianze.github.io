@@ -6,7 +6,7 @@ permalink: /blog/
 
 <div class="home">
 {% for post in site.posts %}
-   {% if post.categories contains 'blog2' %}
+   {% if post.categories contains 'blog1' %}
     {% cycle 'add row' : '<div class="row">', nil, nil %}
         <div class="col-sm-4">
             <div class="preview-panel">
