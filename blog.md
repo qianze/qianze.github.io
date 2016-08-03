@@ -3,6 +3,7 @@ layout: default
 title: qianze zhang | blog
 permalink: /blog/
 ---
+I just wish some blog posts would show up here.
 <div class="home">
 {% for post in site.posts %}
    {% if post.categories contains 'blog1' %}
