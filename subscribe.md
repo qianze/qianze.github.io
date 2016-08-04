@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: qianze zhang | subscribe
 permalink: /subscribe/
 ---
