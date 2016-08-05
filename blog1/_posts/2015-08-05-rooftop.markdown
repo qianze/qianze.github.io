@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Morning from a Rooftop"
+date:   2015-08-05 03:50:00
+category: blog1
+preview: https://github.com/qianze/qianze.github.io/blob/master/blog1/thumbnails/Rural%20Bikes.JPG?raw=true
+---
+<center>
+<img src ="https://github.com/qianze/qianze.github.io/blob/master/blog1/images/Rural%20Bikes.JPG?raw=true"><br>
+
+<i>Morning from a Rooftop,</i> watercolor on paper, 18"x20". Plein air sketch in my grandmother's rural Chinese neighborhood.
+
+July 2015
+</center>
