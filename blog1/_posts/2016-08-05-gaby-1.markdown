@@ -3,7 +3,7 @@ layout: post
 title:  "Gaby 1"
 date:   2015-08-05 00:23:00
 category: blog1
-preview: https://github.com/qianze/qianze.github.io/blob/master/blog1/images/Nude%201%20final.jpg?raw=true
+preview: https://github.com/qianze/qianze.github.io/blob/master/blog1/thumbnails/Nude%201%20final.jpg?raw=true
 ---
 <center>
 ![Picture 1](https://github.com/qianze/qianze.github.io/blob/master/blog1/images/Nude%201%20final.jpg?raw=true)
