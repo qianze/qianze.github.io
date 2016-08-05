@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "A Green, Well-Lighted Place"
+date:   2015-08-05 03:58:00
+category: blog1
+preview: https://github.com/qianze/qianze.github.io/blob/master/blog1/thumbnails/A%20Green,%20Well-Lighted%20Place.JPG?raw=true
+---
+<center>
+<img src ="https://github.com/qianze/qianze.github.io/blob/master/blog1/images/A%20Green,%20Well-Lighted%20Place.JPG?raw=true"><br>
+
+<i>A Green, Well-Lighted Place,</i> acrylic on canvas, 24"x30".
+
+April 2016
+</center>
