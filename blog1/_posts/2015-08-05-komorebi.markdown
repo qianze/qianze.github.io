@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Komorebi"
+date:   2015-10-06 15:39:40
+category: blog1
+preview: https://github.com/qianze/qianze.github.io/blob/master/blog1/thumbnails/Komorebii.JPG?raw=true
+---
+<center>
+<img src ="https://github.com/qianze/qianze.github.io/blob/master/blog1/images/Komorebii.JPG?raw=true"><br>
+
+<i>Komorebi,</i> watercolor on paper, 9"x9". Quick light study referencing photograph by Chiaoking.
+
+May 2016
+</center>
