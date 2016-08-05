@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Gaby 2"
+date:   2015-08-05 01:07:00
+category: blog1
+preview: https://github.com/qianze/qianze.github.io/blob/master/blog1/thumbnails/gaby%203.jpg
+---
+<center>
+![Picture 1](https://github.com/qianze/qianze.github.io/blob/master/blog1/images/gaby%203.jpg?raw=true)
+</center>
+<i>Gaby 2,</i> 24"x18", charcoal on gesso and paper.
+
+July 2015.
