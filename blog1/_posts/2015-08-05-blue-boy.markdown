@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Blue Boy"
+date:   2015-08-05 04:04:00
+category: blog1
+preview: https://github.com/qianze/qianze.github.io/blob/master/blog1/thumbnails/blue%20boy.jpg?raw=true
+---
+<center>
+<img src ="https://github.com/qianze/qianze.github.io/blob/master/blog1/images/blue%20boy.jpg?raw=true"><br>
+
+<i>Blue Boy,</i> watercolor on paper, 22"x18".
+
+February 2016.
+</center>
