@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "YangYang"
+date:   2015-08-05 03:09:00
+category: blog1
+preview: https://github.com/qianze/qianze.github.io/blob/master/blog1/thumbnails/YangYang.JPG?raw=true
+---
+<center>
+<img src ="https://github.com/qianze/qianze.github.io/blob/master/blog1/images/YangYang.JPG?raw=true"><br>
+
+<i>YangYang,</i> oil on canvas, 24"x24".
+
+November 2015
+</center>
