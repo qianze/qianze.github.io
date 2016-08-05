@@ -12,7 +12,7 @@ Inquiries? Artists you think I'd enjoy? Detailed conspiracy theories? Please sen
 <label for="Email">Your Email:</label><br/>
 <input type="text" name="Email" cols="50" id="Email"/><br/>
 <label for="Message">Message:</label><br/>
-<textarea name="Message" rows="10" cols="50" id="Message"></textarea>
+<textarea name="Message" rows="10" cols="50" id="Message"></textarea><br/>
 <input type="submit" name="submit" class="submit-button" />
 </form>
 
