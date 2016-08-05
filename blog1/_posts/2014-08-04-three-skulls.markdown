@@ -8,4 +8,6 @@ preview: https://github.com/qianze/qianze.github.io/blob/master/blog1/images/blu
 
 ![Picture 1](https://github.com/qianze/qianze.github.io/blob/master/blog1/images/threeskulls.jpg?raw=true)
 
-<i>Three Skulls,</i> originally 18"x24", pencil on paper, digital editing
+<i>Three Skulls,</i> originally 18"x24", pencil on paper, digital editing.
+
+February 2014
