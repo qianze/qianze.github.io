@@ -2,11 +2,11 @@
 layout: post
 title:  "Post from blog 2"
 date:   2015-10-06 15:39:40
-category: blog2
-preview: https://github.com/qianze/qianze.github.io/blob/master/blog1/thumbnails/Weijian.jpg?raw=true
+category: blog1
+preview: 
 ---
 <center>
-<img src ="https://github.com/qianze/qianze.github.io/blob/master/blog1/images/Weijian.jpg?raw=true"><br>
+<img src =""><br>
 
 <i>Weijian,</i> watercolor on canvas, 16"x20".
 
