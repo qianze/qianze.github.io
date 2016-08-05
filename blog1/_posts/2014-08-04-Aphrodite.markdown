@@ -10,3 +10,4 @@ preview: https://github.com/qianze/qianze.github.io/blob/master/blog1/thumbnails
 <img src ="https://github.com/qianze/qianze.github.io/blob/master/blog1/images/Aphrodite%20in%20the%20Ocean.jpg?raw=true"></center>
 
 <i>Aphrodite,</i> 18"x24", pencil on paper, March 2014
+</center>
