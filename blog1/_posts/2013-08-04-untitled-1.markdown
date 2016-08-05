@@ -7,7 +7,7 @@ preview: https://github.com/qianze/qianze.github.io/blob/master/blog1/thumbnails
 ---
 
 <center>
-<img src ="https://github.com/qianze/qianze.github.io/blob/master/blog1/images/Pug.JPG?raw=true"></center>
+<img src ="https://github.com/qianze/qianze.github.io/blob/master/blog1/images/Pug.JPG?raw=true">
 
 <i>Untitled,</i> 16"x12", pencil on paper.
 
