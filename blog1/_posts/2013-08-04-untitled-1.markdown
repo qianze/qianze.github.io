@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Untitled-1"
+date:   2013-08-04 23:21:00
+category: blog1
+preview: https://github.com/qianze/qianze.github.io/blob/master/blog1/images/Pug.JPG?raw=true
+---
+
+![Picture 1](https://github.com/qianze/qianze.github.io/blob/master/blog1/images/Pug.JPG?raw=true)
+
+<i>Untitled,</i> 16"x12", pencil on paper, February 2013
