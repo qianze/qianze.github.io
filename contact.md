@@ -4,6 +4,8 @@ title: qianze zhang | contact
 permalink: /contact/
 ---
 <center>
+<a href="https://twitter.com/QlANZEZHANG">twitter</a>//<a href="https://www.instagram.com/highkeychinesegirl/">instagram</a><br>
+<br>
 Inquiries? Artists you think I'd enjoy? Detailed conspiracy theories? Please send me an email here.
 
 <form method="contact" action="https://briskforms.com/go/ff489d66830256d21e49d03a0f8537c9">
