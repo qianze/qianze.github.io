@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Jessica in Mid-Sentence"
+date:   2015-08-05 03:29:00
+category: blog1
+preview: https://github.com/qianze/qianze.github.io/blob/master/blog1/thumbnails/jessica%20in%20mid%20sentence.jpg?raw=true
+---
+<center>
+<img src ="https://github.com/qianze/qianze.github.io/blob/master/blog1/images/jessica%20in%20mid%20sentence.jpg?raw=true"><br>
+
+<i>Jessica in Mid-Sentence,</i> watercolor on canvas, 12"x12". October 2015.<br><br>
+
+Featured in the 2015 "Scholastic 144" group exhibition at Shippensburg University.
+</center>
