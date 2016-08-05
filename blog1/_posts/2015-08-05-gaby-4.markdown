@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Gaby 4"
+date:   2015-08-05 02:52:00
+category: blog1
+preview: https://github.com/qianze/qianze.github.io/blob/master/blog1/thumbnails/Ella%201.jpg?raw=true
+---
+<center>
+<img src ="https://github.com/qianze/qianze.github.io/blob/master/blog1/images/Ella%201.jpg?raw=true"><br>
+
+<i>Gaby 4,</i> 18"x24", charcoal on paper.
+
+August 2015.
+</center>
