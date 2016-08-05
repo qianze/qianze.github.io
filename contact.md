@@ -11,8 +11,8 @@ Inquiries? Artists you think I'd enjoy? Detailed conspiracy theories? Please sen
 <input type="text" name="Name" id="Name"/><br/>
 <label for="Email">Your Email:</label>
 <input type="text" name="Email" id="Email"/><br/>
-<label for="Message">Message:</label><br/>
-<textarea name="Message" rows="20" cols="20" id="Message"></textarea>
+<label for="Message">Message:</label>
+<textarea name="Message" rows="10" cols="30" id="Message"></textarea>
 <input type="submit" name="submit" class="submit-button" />
 </form>
 
