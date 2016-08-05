@@ -6,8 +6,9 @@ category: blog1
 preview: https://github.com/qianze/qianze.github.io/blob/master/blog1/thumbnails/The%20Fruits%20of%20Life.jpg?raw=true
 ---
 
-![Picture 1](https://github.com/qianze/qianze.github.io/blob/master/blog1/images/The%20Fruits%20of%20Life.jpg?raw=true)
+<center>
+<img src ="https://github.com/qianze/qianze.github.io/blob/master/blog1/images/The%20Fruits%20of%20Life.jpg?raw=true">
 
 <i>The Fruits of Life,</i> 18"x24", oil pastel on paper.
 
-April 2014.
+April 2014.</center>
