@@ -10,5 +10,5 @@ preview: https://github.com/qianze/qianze.github.io/blob/master/blog1/thumbnails
 
 <i>Bikes in Beijing,</i> watercolor on paper, 7"x14".
 
-April 2015
+April 2016.
 </center>
