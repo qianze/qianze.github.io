@@ -5,7 +5,7 @@ date:   2015-08-05 00:08:00
 category: blog1
 preview: https://github.com/qianze/qianze.github.io/blob/master/blog1/thumbnails/30secondsketches.png?raw=true
 ---
-![Picture 1](https://github.com/qianze/qianze.github.io/blob/master/blog1/images/30secondsketches.png?raw=true)
+->![Picture 1](https://github.com/qianze/qianze.github.io/blob/master/blog1/images/30secondsketches.png?raw=true)<-
 
 <i>Untitled,</i> 18"x18", conte crayon on paper. Fast-paced live warm-up sketches.
 
