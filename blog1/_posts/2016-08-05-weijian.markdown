@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Weijian"
+date:   2015-08-05 02:56:00
+category: blog1
+preview: https://github.com/qianze/qianze.github.io/blob/master/blog1/thumbnails/Weijian.jpg?raw=true
+---
+<center>
+<img src ="https://github.com/qianze/qianze.github.io/blob/master/blog1/images/Weijian.jpg?raw=true"><br>
+
+<i>Weijian,</i> watercolor on canvas, 16"x20".
+
+October 2015
+</center>
