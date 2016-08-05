@@ -7,7 +7,7 @@ preview: https://github.com/qianze/qianze.github.io/blob/master/blog1/thumbnails
 ---
 <center>
 <img src ="https://github.com/qianze/qianze.github.io/blob/master/blog1/images/30secondsketches.png?raw=true" />
-
+<br>
 <i>Untitled,</i> 18"x18", conte crayon on paper. Fast-paced live warm-up sketches.
 
 July 2015.
