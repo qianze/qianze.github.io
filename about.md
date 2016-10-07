@@ -6,4 +6,4 @@ permalink: /about/
 
 | Photo        | Description           |
 | ------------- |:-------------:|
-| col 3 is      | right-aligned | 
+|![alt text](https://github.com/qianze/qianze.github.io/blob/master/images/qianze.me.jpg")| right-aligned | 
