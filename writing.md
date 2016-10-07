@@ -1,9 +1,10 @@
 ---
 layout: default
-title: qianze zhang | blog
-permalink: /blog/
+title: qianze zhang | writing
+permalink: /ink/
 ---
 <center>
+coming soon
 <div class="home">
 {% for post in site.posts %}
    {% if post.categories contains 'blog2' %}
