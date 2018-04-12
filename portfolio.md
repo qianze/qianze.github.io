@@ -1,21 +1,22 @@
----
-layout: default
-title: qianze zhang | portfolio
-permalink: /portfolio/
----
-<center>
-<div class="home">
-{% for post in site.posts %}
-    {% cycle 'add row' : '<div class="row">', '', '' %}
-        <div class="column column-33">
-            <div class="preview-panel">
-                <a href="{{ post.url | prepend: site.baseurl }}">
-                    <img src="{{ post.preview }}">
-                </a>
-                <div class="post-title">{{ post.title }}</div>
-           </div>
+ ---
+ layout: default
+ title: qianze zhang | portfolio
+ permalink: /portfolio/
+ ---
+ <center>
+ <div class="home">
+ {% for post in site.posts %}
+    {% if post.categories contains 'blog1' %}
+     {% cycle 'add row' : '<div class="row">', nil, nil %}
+         <div class="col-sm-4">
+             <div class="preview-panel">
+                 <a href="{{ post.url | prepend: site.baseurl }}">
+                     <img src="{{ post.preview | prepend: site.baseurl }}">
+                 </a>
+            </div>
         </div>
+       </div>
 {% cycle 'end row' : '', '', '</div>' %}
+       {% endif %}
 {% endfor %}
 {% cycle 'end row' : '', '</div>', '</div>' %}
-</center>
