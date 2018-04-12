@@ -16,5 +16,5 @@ permalink: /portfolio/
  {% cycle 'end row' : nil, nil, '</div>' %}
    {% endif %}
  {% endfor %} 
- </div>hellooo got to bottom pls be centered and small
+ </div>hellooo got to bottom pls be centered and small for all
  </center>
