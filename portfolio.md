@@ -7,7 +7,7 @@ permalink: /portfolio/
  <div class="home">
  {% for post in site.posts %}
     {% if post.categories contains 'blog1' %}
-     {% cycle 'add row' : '<div class="row" style="width:30%">', nil, nil %}
+     {% cycle 'add row' : '<div class="row" style="width:40%">', nil, nil %}
              <div class="preview-panel">
                  <a href="{{ post.url | prepend: site.baseurl }}">
                      <img src="{{ post.preview | prepend: site.baseurl }}">
@@ -16,5 +16,5 @@ permalink: /portfolio/
  {% cycle 'end row' : nil, nil, '</div>' %}
    {% endif %}
  {% endfor %} 
- </div>hellooo got to bottom pls be centered and small for all
+ </div>
  </center>
