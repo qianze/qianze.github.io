@@ -17,8 +17,6 @@ permalink: /portfolio/
          </div>
  {% cycle 'end row' : nil, nil, '</div>' %}
    {% endif %}
- {% endfor %}
- {% cycle 'end row' : nil, '</div>', '</div>' %}
- 
+ {% endfor %} 
  </div>
  </center>
