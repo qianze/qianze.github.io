@@ -14,7 +14,7 @@ permalink: /portfolio/
                     <img src="{{ post.preview | prepend: site.baseurl }}">
                 </a>
            </div>
-        </div>|
+        </div>
 {% cycle 'end row' : nil, nil, '</div>' %}
   {% endif %}
 {% endfor %}
