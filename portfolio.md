@@ -20,3 +20,4 @@
        {% endif %}
 {% endfor %}
 {% cycle 'end row' : '', '</div>', '</div>' %}
+ </center>
