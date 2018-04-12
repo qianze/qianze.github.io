@@ -1,8 +1,8 @@
- ---
+---
 layout: default
- title: qianze zhang | portfolio
- permalink: /portfolio/
- ---
+title: qianze zhang | portfolio
+permalink: /portfolio/
+---
  <center>
  <div class="home">
  {% for post in site.posts %}
