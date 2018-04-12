@@ -4,7 +4,7 @@ title: qianze zhang | subscribe
 permalink: /subscribe/
 ---
 <center>
-Subscribe for exclusive mental meanderings and updates whenever I publish new content.
+Subscribe for updates whenever I publish new content.
 <center>
 <!-- Begin MailChimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
