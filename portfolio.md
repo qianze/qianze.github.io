@@ -1,5 +1,5 @@
  ---
- layout: default
+layout: default
  title: qianze zhang | portfolio
  permalink: /portfolio/
  ---
@@ -14,10 +14,11 @@
                      <img src="{{ post.preview | prepend: site.baseurl }}">
                  </a>
             </div>
-        </div>
-       </div>
-{% cycle 'end row' : '', '', '</div>' %}
-       {% endif %}
-{% endfor %}
-{% cycle 'end row' : '', '</div>', '</div>' %}
+         </div>
+ {% cycle 'end row' : nil, nil, '</div>' %}
+   {% endif %}
+ {% endfor %}
+ {% cycle 'end row' : nil, '</div>', '</div>' %}
+ 
+ </div>
  </center>
